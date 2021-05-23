@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(#32e6e8 , #f7fba3);
+    background-repeat: no-repeat;
+}
+
+#marqueeStyle{
+    background-color:cornflowerblue;
+    color: white;
+}
+
+.nav navbar-nav{
+    background-color: black;
+    color: white;
+}
+
+.navbar-brand{
+    background-color: black;
+    color: white;
+}
+
+.environment_li{
+    margin-top: 13px;
+}
+
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img{
+    border-radius: 25px;
+}
+
+.environment_li p{
+    margin-top: 10px;
+}
+
+#glyphicon glyphicon-triangle-bottom{
+    margin-left: 200px;
+}
+
+.text-capitalize{
+font-family: 'Handlee', cursive;
+}
